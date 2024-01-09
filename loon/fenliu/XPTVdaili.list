@@ -3,9 +3,9 @@
 # DOMAIN-SUFFIX：40
 # DOMAIN：3
 #欧乐影视
-DOMAIN-KEYWORD,olelive,CMSPlayer
-DOMAIN-KEYWORD,olevod,CMSPlayer
-DOMAIN-KEYWORD,olemovienews,CMSPlayer
+DOMAIN-KEYWORD,olelive
+DOMAIN-KEYWORD,olevod
+DOMAIN-KEYWORD,olemovienews
 # 海外看
 DOMAIN-KEYWORD,haiwaikan
 DOMAIN,cdn.iz8qkg.com
