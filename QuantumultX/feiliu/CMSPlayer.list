@@ -1,0 +1,53 @@
+# NAME: CMSPlayer
+# HOST-KEYWORD: 4
+# HOST-SUFFIX：40
+# HOST：3
+#欧乐影视
+HOST-KEYWORD,olelive,CMSPlayer
+HOST-KEYWORD,olevod,CMSPlayer
+HOST-KEYWORD,olemovienews,CMSPlayer
+# 海外看
+host-keyword,haiwaikan,CMSPlayer
+HOST,cdn.iz8qkg.com,CMSPlayer
+HOST,cdn.kin6c1.com,CMSPlayer
+HOST,cdn.v82u1l.com,CMSPlayer
+HOST-SUFFIX,jszyapi.com,CMSPlayer
+HOST-SUFFIX,wolongzy.cc,CMSPlayer
+HOST-SUFFIX,suoniapi.com,CMSPlayer
+HOST-SUFFIX,tiankongapi.com,CMSPlayer
+HOST-SUFFIX,feisuzyapi.com,CMSPlayer
+HOST-SUFFIX,hongniuzy2.com,CMSPlayer
+HOST-SUFFIX,ffzyapi.com,CMSPlayer
+HOST-SUFFIX,lziapi.com,CMSPlayer
+HOST-SUFFIX,ikunzyapi.com,CMSPlayer
+HOST-SUFFIX,guangsuapi.com,CMSPlayer
+HOST-SUFFIX,apibdzy.com,CMSPlayer
+HOST-SUFFIX,kczyapi.com,CMSPlayer
+DOMAIN-SUFFIX,ukuapi.com,CMSPlayer
+HOST-SUFFIX,sdzyapi.com,CMSPlayer
+HOST-SUFFIX,wujinapi.com,CMSPlayer
+HOST-SUFFIX,hhzyapi.com,CMSPlayer
+HOST-SUFFIX,huyaapi.com,CMSPlayer
+HOST-SUFFIX,apiyhzy.com,CMSPlayer
+HOST-SUFFIX,fenwe078.cf,CMSPlayer
+# 某某
+HOST-SUFFIX,v1.mk,CMSPlayer
+HOST-SUFFIX,notion-api.splitbee.io,CMSPlayer
+HOST-SUFFIX,themoviedb.org,CMSPlayer
+HOST-SUFFIX,thetvdb.com,CMSPlayer
+HOST-SUFFIX,tmdb.org,CMSPlayer
+HOST-SUFFIX,discord.com,CMSPlayer
+HOST-SUFFIX,olevod.com,CMSPlayer
+HOST-SUFFIX,olemovienews.com,CMSPlayer
+HOST-SUFFIX,haiwaikan.com,CMSPlayer
+HOST-SUFFIX,bfvvs.com,CMSPlayer
+HOST-SUFFIX,cdn.venus7202.com,CMSPlayer
+HOST-SUFFIX,cdn.ceres9350.com,CMSPlayer
+HOST-SUFFIX,cdn.efhie.com,CMSPlayer
+HOST-SUFFIX,czzy.site,CMSPlayer
+HOST-SUFFIX,cz01.vip,CMSPlayer
+HOST-SUFFIX,picsum.photos,CMSPlayer
+HOST-SUFFIX,ibb.co,CMSPlayer
+HOST-SUFFIX,kin6c1.com,CMSPlayer
+HOST-SUFFIX,iz8qkg.com,CMSPlayer
+HOST-SUFFIX,v82u1l.com,CMSPlayer
